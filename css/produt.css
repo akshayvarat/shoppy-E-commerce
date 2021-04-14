@@ -1,0 +1,16 @@
+.product_img {
+  padding: 10px;
+}
+.details {
+  border: none;
+  font-size: 20px;
+}
+
+.offers {
+  font-size: 15px;
+  line-height: 25px;
+  word-spacing: 1.5px;
+}
+.price {
+  font-size: 28px;
+}
